@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johnr302
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning express, nodejs,restAPI, and template engines
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
